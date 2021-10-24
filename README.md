@@ -1,0 +1,2 @@
+# sicp
+self study
